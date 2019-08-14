@@ -2,6 +2,8 @@
 
 http://projecteuler.net/
 
+MY ANSWERS AND COMMENTS IN THE PYTHON FILES ABOVE
+
 Project Euler, is a website containing at this point 677 problems.
 These problems are based on mathematical theory and require the user
 to use their imagination to solve the problems.
